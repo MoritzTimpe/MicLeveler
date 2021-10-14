@@ -1,6 +1,10 @@
 # MicLeveler
 Fixes your Microphone Level to one specific value.
 
+# Intention
+A friend of mine has the problem that some programs are setting his microphone level up to 100.</br>
+Now he can use this script to lower his level automaticly on boot.
+
 # Instructions
 Open the Project in a IDE of your choice. I developed it in PyCharm.</br>
 Execute the <b>main.py</b>. The Program will promt "Input wish percentage:" ,</br>
