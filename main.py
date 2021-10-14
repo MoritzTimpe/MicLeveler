@@ -8,7 +8,11 @@ def calc(percent):
     return (int(one_percent) * int(percent))
 
 def main():
-    filesize = os.path.getsize("level.cfg")
+    try:
+        filesize = os.path.getsize("level.cfg")
+    except:
+        print("level.cfg does not exist!")
+        filesize = 0
 
     if filesize == 0:
         f = open('level.cfg', 'w+')
