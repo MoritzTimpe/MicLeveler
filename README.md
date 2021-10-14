@@ -11,6 +11,6 @@ You will have to type in what percentage you wan't your microphone to have.
 
 
 # Disclaimer
-In this Push I included the nircmd files. I don't if I am allowed to do that so I will include the </br>
+In this Push I included the nircmd files. I don't know if I am allowed to do that so I will include the </br>
 official link <a href="https://www.nirsoft.net/utils/nircmd.html">here</a>.
 <b>If I am not allowed to do this please contact me and I will delete them.</b>
